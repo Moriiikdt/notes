@@ -1,4 +1,4 @@
 
 notes syn
 
-$\color{red}{if\ you\ see\ this,\ please\ begin\ learning!}$
+if you see this, please begin learning!
