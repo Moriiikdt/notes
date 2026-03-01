@@ -1,7 +1,7 @@
 # 01 背包 capacity是容量 w是物品体积 v是价值
 def zero_one_bag(capacity:int, w: List[int], v: List[int]) -> int:
       n = len(w)
-
+      @cache
       def dfs(i, c):
             if i < 0:
                   return 0
